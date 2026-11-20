@@ -1,0 +1,14 @@
+# Tema visual de OncoMama IA (Streamlit lo lee automáticamente al ejecutar desde esta carpeta)
+[theme]
+base = "light"
+primaryColor = "#BE185D"
+backgroundColor = "#FDF4F7"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#3B1D2B"
+font = "sans serif"
+
+[server]
+headless = false
+
+[browser]
+gatherUsageStats = false
