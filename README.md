@@ -1,4 +1,4 @@
-# 🩺 Sistema de predicción de cáncer de mama con Machine Learning
+# 🎗️ OncoMama IA: sistema de predicción de cáncer de mama con Machine Learning
 
 Proyecto final de **Proyectos de Machine Learning**, período 2026-2.
 Autora: **Cristina Soledad Proaño Ullaguari**
